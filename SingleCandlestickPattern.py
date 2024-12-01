@@ -1,3 +1,4 @@
+import CandleStick
 class SingleCandlePattern(CandleStick):
     """Pattern formed by the single candle."""
 
